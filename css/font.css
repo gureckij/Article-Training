@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    /* Броузер ищет шрифт локально */
+    src: local('Source Sans Pro Regular'),
+        /* Еесли не получилось, загрузить woff2 */
+            url(/font/SourceSansPro-Regular.woff2) format('woff2'),
+        /* Если броузер не поддерживает woff2, загрузить woff */
+            url(/font/SourceSansPro-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    /* Броузер ищет шрифт локально */
+    src: local('Sourse Sans Pro Bold'),
+        /* Если не получилось, загрузить woff2 */
+            url(/font/SourceSansPro-Bold.woff2) format('woff2'),
+        /* Если броузер не поддерживает woff2, загрузить woff */
+            url(/font/SourceSansPro-Bold.woff) format('woff');
+}
