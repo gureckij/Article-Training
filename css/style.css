@@ -16,6 +16,8 @@ body {
 }
 
 .post-title {
+    margin: 0;
+    margin-bottom: 20px;
     font-size: 42px;
     line-height: 52px;
     width: 700px;
