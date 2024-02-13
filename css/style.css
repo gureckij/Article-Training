@@ -51,6 +51,8 @@ body {
 .post-content h2 {
     font-size: 32px;
     line-height: 40px;
+    margin-top: 55px;
+    margin-bottom: 25px;
 }
 
 .post-content h3 {
