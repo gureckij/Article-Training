@@ -119,6 +119,9 @@ body {
     color: #000218;
     text-decoration: none;
     display: block;
+
+    /* Стилизуйте рамку */
+    border: 1px solid #5974ff;
 }
 
 .post-meta time {
