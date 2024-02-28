@@ -79,6 +79,7 @@ body {
     /* Установите отступы по макету */
     margin-top: 15px;
     margin-bottom: 15px;
+    padding-left: 20px;
 }
 
 .post-content li {
