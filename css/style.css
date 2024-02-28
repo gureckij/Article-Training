@@ -90,6 +90,10 @@ body {
 .post-footer {
     /* Установите вертикальный отступ */
     margin-top: 40px;
+
+    /* Установите стили рамки */
+    border-top: 1px solid #000218;
+    border-bottom: 1px solid #000218;
 }
 
 .tag a {
