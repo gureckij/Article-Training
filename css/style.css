@@ -93,6 +93,7 @@ body {
 
     /* Распределите элементы в один ряд по ширине */
     display: flex;
+    justify-content: space-between;
 
     /* Установите стили рамки */
     border-top: 1px solid #000218;
