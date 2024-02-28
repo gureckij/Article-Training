@@ -76,6 +76,9 @@ body {
     /* Обнулите поля и отступы списка */
     margin: 0;
     padding: 0;
+    /* Установите отступы по макету */
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .tag a {
