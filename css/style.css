@@ -72,6 +72,12 @@ body {
     text-decoration: none;
 }
 
+.post-content ul {
+    /* Обнулите поля и отступы списка */
+    margin: 0;
+    padding: 0;
+}
+
 .tag a {
     font-size: 16px;
     line-height: 20px;
