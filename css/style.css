@@ -135,6 +135,11 @@ body {
     border: 1px solid #5974ff;
 }
 
+.tag a:hover {
+    /* Добавьте стили */
+    opacity: 0.7;
+}
+
 .post-meta time {
     font-size: 16px;
     line-height: 20px;
