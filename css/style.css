@@ -87,6 +87,11 @@ body {
     margin-bottom: 15px;
 }
 
+.post-footer {
+    /* Установите вертикальный отступ */
+    margin-top: 40px;
+}
+
 .tag a {
     font-size: 16px;
     line-height: 20px;
