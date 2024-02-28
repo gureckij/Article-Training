@@ -103,6 +103,13 @@ body {
     padding: 30px 0;
 }
 
+.tags {
+    /* Стилизуйте список тегов */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .tag a {
     font-size: 16px;
     line-height: 20px;
