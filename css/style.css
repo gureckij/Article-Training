@@ -116,6 +116,9 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+
+    /* Установите отступ снизу */
+    margin-bottom: 25px;
 }
 
 .tag a {
