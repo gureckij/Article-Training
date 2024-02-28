@@ -120,6 +120,9 @@ body {
     text-decoration: none;
     display: block;
 
+    /* Установите поля */
+    padding: 5px 10px;
+
     /* Стилизуйте рамку */
     border: 1px solid #5974ff;
 }
